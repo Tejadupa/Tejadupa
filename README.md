@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejadupa" alt="tejadupa" /></a> </p>
 
-- 📫 How to reach me **anagateja_csd236701@mgit.ac.in**
+- 📫 How to reach me **tejadupa@gmail.com.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
